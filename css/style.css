@@ -357,3 +357,51 @@
     border-radius: 10px;
     width: 497px;
 }
+
+/*---------------------------------------------------------------------------*/
+
+footer{
+     max-width: 540px;
+        margin: 0 auto;
+        margin-top: 137px;
+        margin-bottom: 104px;
+        justify-content: center;
+}
+
+.footer-header{
+    color: #4E47FF;
+    font-weight: 900;
+    font-size: 100px;
+    font-family: Raleway ;
+    text-align: center;
+    
+}
+
+footer p{
+    color: rgba(137, 135, 161, 1);
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Raleway ;
+    text-align: center;
+}
+
+.footer-list{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+
+
+}
+.footer-list li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.footer-list li a{
+    text-decoration: none;
+    list-style: none;
+    color: rgba(137, 135, 161, 1);
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Raleway ;
+}
