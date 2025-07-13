@@ -281,3 +281,79 @@
         margin: 0 auto;
         padding-top: 15px;
     }
+
+    /*--------------------------------------------------------*/
+
+    .form-section{
+        max-width: 1140px;
+        margin: 0 auto;
+        margin-top: 137px;
+        
+    }
+
+    .for-flex{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .form-hedding{
+        width: 528px;
+        height: 232px;
+        text-align: left;
+        color: rgba(0, 0, 0, 1);
+        font-weight: 800;
+        font-size: 50px;
+        font-family:Raleway ;
+    }
+
+
+    .from-form input[type="text"] {
+    width: 497px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 19px;
+}
+.from-form input[type="email"]{
+    width: 497px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 19px;
+    }
+
+.from-form textarea{
+    width: 497px;
+    height: 130px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 19px;
+}
+
+.lable-from{
+    color: rgba(0, 0, 0, 1);
+    font-weight: 500;
+    font-size: 18px;
+    font-family: inter;
+    
+}
+
+.form-buttom{
+    color: #ffff;
+    font-weight: 500;
+    font-size: 16px;
+    font-family: Raleway ;
+    padding: 19px 101px;
+    background-color: #4E47FF;
+    border-radius: 10px;
+    width: 497px;
+}
