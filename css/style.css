@@ -144,3 +144,88 @@
     margin-top: -100px;
 }
 
+/*---------------------------------*/
+
+.says-section{
+    max-width: 1140px;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 137px;
+}
+ .our-says{
+    display: flex;
+    justify-content: space-between;
+    
+ }
+
+ .says1{
+    width: 366px;
+    height: 243px; 
+    gap: 20px;
+    border: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-color: rgba(242, 237, 237, 1);
+    border-radius: 14px;
+    padding: 2px;
+ }
+
+.says-hedding{
+    color: rgba(37, 36, 50, 1);
+    font-weight: 800;
+    font-size: 42px;
+    font-family:Raleway ;
+    text-align: center;
+}
+
+.starts{
+    display: flex;
+    margin-top: 15px;
+    color: rgba(255, 184, 5, 1);
+}
+
+.says-inerhedding{
+    color: rgba(37, 36, 50, 1);
+    font-weight: 800;
+    font-size: 24px;
+    font-family:Raleway ;
+    margin:0 auto;
+    padding-top: 10px;
+}
+
+.says-inertext{
+    color: rgba(37, 36, 50, 1);
+    font-weight: 400;
+    font-size: 24px;
+    font-family:Raleway; 
+    
+}
+
+.profile{
+    display: flex;
+}
+
+.profile-image{
+    width: 40px;
+    height: 40px;
+    border-radius: 999px;
+    margin:0;
+    margin-right: 5px;
+}
+
+.profile-hedding{
+    color: rgb(53, 53, 61);
+    font-weight: 600;
+    font-size: 16px;
+    font-family:Raleway ;
+    margin:0 auto;
+}
+
+.profile-hedingtext{
+    color: rgb(63, 63, 75);
+    font-weight: 400;
+    font-size: 16px;
+    font-family:Raleway ;
+    margin:0;
+    justify-content: left;
+}
+
